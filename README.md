@@ -1,10 +1,10 @@
-#BIT 2118: SCIENTIFIC COMPUTING GROUP 
+#BIT 2118: SCIENTIFIC COMPUTING GROUP WORK FOR BSCCS252605901.
 
 Group Project Repository
 
-Welcome to our BIT 2118 Scientific Computing group workspace.
+Welcome to my BIT 2118 Scientific Computing group work repo.
 
-This repository contains the group's Python programs, numerical computations, results, graphs, explanations, and real-world applications for Tasks 2–20.
+This repository contains Python programs, numerical computations, results, graphs, explanations, and real-world applications for Tasks 2–20 that we discussed with my group.
 
 Group Members:
 
@@ -21,7 +21,7 @@ Group Members:
 
 Project Requirements
 
-For every assigned task, members should:
+For every assigned task, we had to:
 
 1. Identify input values and mathematical operations.
 2. Change at least one input or parameter and explain the effect.
@@ -29,12 +29,6 @@ For every assigned task, members should:
 4. Modify the program to solve a related real-world case.
 5. Document assumptions, input data, output, and interpretation.
 
-Collaboration Guidelines
-
-- This repository is our shared group workspace.
-- Members should contribute to their assigned tasks.
-- All work should be reviewed before being considered complete.
-- Each student must create and maintain their own individual GitHub repository for submission.
 
 Tasks
 
