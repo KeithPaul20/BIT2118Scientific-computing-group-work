@@ -6,6 +6,8 @@ Welcome to my BIT 2118 Scientific Computing group work repo.
 
 This repository contains Python programs, numerical computations, results, graphs, explanations, and real-world applications for Tasks 2–20 that we discussed with my group.
 
+Each folder contains the original program,a modified real world case and documentation.
+
 Group Members:
 
 1. Natasha
